@@ -22,7 +22,7 @@ const Footer = () => {
                     <span className="footer-title text-2xl">ORAL HEALTH</span>
                     <Link to="/" className="link link-hover">Fluoride Treatment</Link>
                     <Link to="/" className="link link-hover">Cavity Filling</Link>
-                    <Link to="/" className="link link-hover">Teath Whitening</Link>
+                    <Link to="/" className="link link-hover">Teeth Whitening</Link>
                 </div>
                 <div>
                     <span className="footer-title text-2xl">OUR ADDRESS</span>

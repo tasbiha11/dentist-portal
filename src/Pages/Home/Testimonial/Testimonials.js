@@ -10,24 +10,24 @@ const Testimonials = () => {
     const reviews = [
         {
             _id: 1,
-            name: 'Wilson Herry',
+            name: 'Mr. Peter',
             img: people1,
             reviews: 'It is a long established fact that by the readable content of a lot layout. The point of using Lorem a more-or-less normal distribu to using Content here, content',
-            location: 'California'
+            location: 'Sylhet'
         },
         {
             _id: 2,
-            name: 'Wilson Herry',
+            name: 'Mrs. Black',
             img: people2,
             reviews: 'It is a long established fact that by the readable content of a lot layout. The point of using Lorem a more-or-less normal distribu to using Content here, content',
-            location: 'California'
+            location: 'Sylhet'
         },
         {
             _id: 3,
-            name: 'Wilson Herry',
+            name: 'Ms. Granger',
             img: people3,
             reviews: 'It is a long established fact that by the readable content of a lot layout. The point of using Lorem a more-or-less normal distribu to using Content here, content',
-            location: 'California'
+            location: 'Sylhet'
         }
     ]
 
